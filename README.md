@@ -194,7 +194,7 @@ I would like to thank microverse for providing all the resources to buld this
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/george827/Recipe-app/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/tanveerisonline/Rails_Recipe_App/blob/main/LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
